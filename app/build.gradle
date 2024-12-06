@@ -3,7 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 android {
-    namespace 'com.example.church.client'
+    namespace 'com.gkii.church.client'
     compileSdk 34
 
     defaultConfig {
