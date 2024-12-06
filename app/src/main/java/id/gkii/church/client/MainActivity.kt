@@ -7,7 +7,6 @@ import android.os.Handler
 import android.os.Looper
 import android.widget.TextView
 import androidx.activity.ComponentActivity
-import com.gkii.church.client.R
 
 class MainActivity : ComponentActivity() {
     lateinit var tvVersionName:TextView
