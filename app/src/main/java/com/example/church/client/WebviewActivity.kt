@@ -120,6 +120,6 @@ class WebviewActivity : ComponentActivity() {
             android.widget.Toast.makeText(this, "Downloading File", android.widget.Toast.LENGTH_LONG).show()
         }
 
-        webView.loadUrl("https://88b3-114-10-80-163.ngrok-free.app/gkiisangkarnihuta") //Change the url string into web url host
+        webView.loadUrl("https://gkiibalige.com") //Change the url string into web url host
     }
 }

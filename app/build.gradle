@@ -2,7 +2,6 @@ plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
 }
-
 android {
     namespace 'com.example.church.client'
     compileSdk 34
@@ -12,8 +11,8 @@ android {
         minSdk 24
         //noinspection EditedTargetSdkVersion
         targetSdk 34
-        versionCode 1
-        versionName "1.0"
+        versionCode 1000
+        versionName "1.0.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
